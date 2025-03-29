@@ -1,0 +1,28 @@
+﻿@model WebApplication1.Models.Students;
+
+<h2>Enter Student Details</h2>
+
+<form asp-action="Create" method="post">
+    <label>Name:</label>
+    <input type="text" asp-for="Name" required/>
+    <span asp-validation-for="Name" style="color: red;"></span>
+    <br/>
+
+    <label>Last Name:</label>
+    <input type="text" asp-for="LastName" required/>
+    <span asp-validation-for="LastName" style="color: red;"></span>
+    <br/>
+
+    <label>Grade:</label>
+    <input type="text" asp-for="Grade" required />
+    <span asp-validation-for="Grade" style="color: red;"></span>
+    <br />
+
+    <button type="submit" class="btn edit">Submit</button>
+</form>
+
+<a href="/Home">Back to List</a>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"/>
+}

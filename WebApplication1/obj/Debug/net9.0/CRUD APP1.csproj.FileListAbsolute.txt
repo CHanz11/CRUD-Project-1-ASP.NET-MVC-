@@ -1,0 +1,99 @@
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\appsettings.Development.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\appsettings.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.staticwebassets.runtime.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.staticwebassets.endpoints.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.exe
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.deps.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.runtimeconfig.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.dll
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\CRUD APP1.pdb
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.AssemblyInfoInputs.cache
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.AssemblyInfo.cs
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.csproj.CoreCompileInputs.cache
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.MvcApplicationPartsAssemblyInfo.cache
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.RazorAssemblyInfo.cache
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.RazorAssemblyInfo.cs
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.sourcelink.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\scopedcss\bundle\CRUD APP1.styles.css
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\scopedcss\projectbundle\CRUD APP1.bundle.scp.css
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\x6gfbh27yk-b9sayid5wm.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\0gapo3abvl-61n19gt1b8.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\xqwyxadaj9-xtxxf3hu2r.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ehytk5042d-bqjiyaj88i.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\0zdqeyiiuq-c2jlpeoesf.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\zumo8p983m-erw9l3u2r3.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\dt84sarkrh-aexeepp0ev.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\vvmjygffo8-d7shbmvgxk.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\07amjkclz6-ausgxo2sd3.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\eruadnfzld-k8d9w2qqmf.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\a60zgovsxt-cosvhxvwiu.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\p15vomnczd-ub07r2b239.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\xn0zupqxeq-fvhpjtyr6v.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\6k9f0pscff-b7pk76d08c.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\fctof7vy81-fsbi9cje9m.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\d50mbjs6dc-rzd6atqjts.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\kcnnu6c09s-ee0r1s7dh0.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ff7jf604f4-dxx9fxp4il.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\sn6m33nfqf-jd9uben2k1.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\5soslndj0v-khv3u5hwcm.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\f90042uz93-r4e9w2rdcm.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ircjsqa95y-lcd1t2u6c8.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\9kb528o1wj-c2oey78nd0.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\a6dcskqsog-tdbxkamptv.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\my0qkc9jhp-j5mq2jizvt.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\urfbkr7vi1-06098lyss8.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\yx75bkd7dv-nvvlpmu67g.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\lojcbn8dji-s35ty4nyc5.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ex0ce34wf0-pj5nd1wqec.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\75lun9n1ei-46ein0sx1k.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\phdkhazj9p-v0zj4ognzu.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ymqw8hfohu-37tfw0ft22.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\4mpnxxszch-hrwsygsryq.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\evsm8fuenn-pk9g2wxc8p.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\lfjprrz771-ft3s53vfgj.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\o4xt1h8o4h-6cfz1n2cew.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ogee8f0kj2-6pdc2jztkx.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\m09wdkg64f-493y06b0oq.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\q729z66kvm-iovd86k7lj.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\g773czxqsp-vr1egmr9el.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\0j6mcn7hew-kbrnm935zg.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\f65nzdkrmq-jj8uyg4cgr.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\0rtw0ldejl-y7v9cxd14o.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\jvhual57av-notf2xhcfb.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\qkg6miacjp-h1s4sie4z3.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\tbffkpwsry-63fj8s7r0e.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\up0na8onc7-0j3bgjxly4.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\7vtp1rf99o-47otxtyo56.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\blcwqr3z3n-4v8eqarkd7.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\agysn43hiq-356vix0kms.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\h398cytkpj-83jwlth58m.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\z3p59uiglo-mrlpezrjn3.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\i7nzwoohd8-lzl9nlhx6b.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\aa5s4r526u-ag7o75518u.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\ojwnxnsyxy-x0q3zqp4vz.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\9olkpc2upm-0i3buxo5is.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\mx57j1frq4-o1o13a6vjx.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\5u00c8x3me-ttgo8qnofa.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\lneiw6efru-2z0ns9nrw6.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\agv85ltx31-muycvpuwrr.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\559gaifqo8-87fc7y1x7t.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\7dt05pf1qy-mlv21k5csn.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\naw3vrx86u-1kdanptz32.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\qrf583kw1h-1kdanptz32.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets.build.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets.development.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets\msbuild.CRUD APP1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets\msbuild.CRUD APP1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets\msbuild.build.CRUD APP1.props
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CRUD APP1.props
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CRUD APP1.props
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.dll
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\refint\CRUD APP1.dll
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.pdb
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\CRUD APP1.genruntimeconfig.cache
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\ref\CRUD APP1.dll
