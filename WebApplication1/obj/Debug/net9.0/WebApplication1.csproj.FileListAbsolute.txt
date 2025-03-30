@@ -230,4 +230,7 @@ C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\ref
 C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
 C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
-C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\sfr9826l73-8hmp0edvf7.gz
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\X.PagedList.dll
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\bin\Debug\net9.0\X.PagedList.Mvc.Core.dll
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\CODES\ASP.NET\CRUD Application (ASP.NET)\WebApplication1\obj\Debug\net9.0\compressed\sfr9826l73-ofn3zn3460.gz

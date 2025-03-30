@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication1.Models
 {
@@ -18,5 +19,11 @@ namespace WebApplication1.Models
         [Required(ErrorMessage = "Grade is Required")]
         [Range(1, 100, ErrorMessage = "Grade must between 1 - 100.")]
         public int Grade { get; set; }
+
+        // New fields to add
+        public string LetterGrade { get; set; } = "N/A";
+
+        [Precision(4, 2)]  // This specifies 4 total digits with 2 decimal places (e.g., 4.00)
+        public decimal GPA { get; set; } = 0.0m;
     }
 }

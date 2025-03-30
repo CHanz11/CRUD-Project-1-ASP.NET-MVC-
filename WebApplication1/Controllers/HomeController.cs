@@ -1,7 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Models;
-using System.Linq;
-using System;
+using WebApplication1.Services;
+using X.PagedList;
+using X.PagedList.Extensions;
+using X.PagedList.Mvc.Core;
 
 namespace WebApplication1.Controllers
 {
@@ -16,10 +18,30 @@ namespace WebApplication1.Controllers
         }
 
         //LIST: Display all record
-        public IActionResult List()
+        public IActionResult List(string searchString, int? page)
         {
-            var student = _context.Student.ToList();
-            return View(student);
+            int pageSize = 10;  // Number of records per page
+            int pageNumber = page ?? 1; // Default page number is 1
+
+            // Fetch student records
+            var students = _context.Student.AsQueryable();
+
+            // If search string is not empty, filter results
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                students = students.Where(s =>
+                    s.Name.Contains(searchString) ||
+                    s.LastName.Contains(searchString) ||
+                    s.Grade.ToString().Contains(searchString));
+            }
+
+            // Apply pagination
+            var paginatedStudents = students.OrderBy(s => s.Id).ToPagedList(pageNumber, pageSize);
+
+            // Pass search term to the view for display
+            ViewBag.SearchString = searchString;
+
+            return View(paginatedStudents);
         }
 
         //CREATE: Display form
@@ -32,13 +54,28 @@ namespace WebApplication1.Controllers
         [HttpPost]
         public IActionResult Create(Students student)
         {
-            if(ModelState.IsValid)
+            try
             {
-                _context.Student.Add(student);
-                _context.SaveChanges();
-                return RedirectToAction("List");
+                if (ModelState.IsValid)
+                {
+                    //Calculate letter grade and GPA
+                    var result = GradeCalculator.CalculateLetterGrade(student.Grade);
+                    student.LetterGrade = result.LetterGrade;
+                    student.GPA = result.GPA;
+
+                    _context.Student.Add(student);
+                    _context.SaveChanges();
+                    return RedirectToAction("List");
+                }
+                return View(student);
             }
-            return View(student);
+            catch (Exception ex)
+            {
+                // Log the exception
+                ModelState.AddModelError("", "An error occurred while saving: " + ex.Message);
+                return View(student);
+            }
+            
         }
 
         // EDIT: Display existing record in form
@@ -58,6 +95,12 @@ namespace WebApplication1.Controllers
         {
             if (ModelState.IsValid)
             {
+                //Calculate letter grade and GPA
+                var result = GradeCalculator.CalculateLetterGrade(student.Grade);
+                student.LetterGrade = result.LetterGrade;
+                student.GPA = result.GPA;
+
+
                 _context.Student.Update(student);
                 _context.SaveChanges();
                 return RedirectToAction("List");
